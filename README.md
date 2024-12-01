@@ -1,5 +1,5 @@
 
-# TAPSec — A CLI Tool for Threat Hunting
+# TAPSec — A CLI Tool for Threat Analysis
 
 TAPSec is a Python-based Command-Line Interface (CLI) tool designed for efficient threat analysis. It classifies input rules, maps them to CVEs, and provides actionable mitigations. TAPSec is designed for security analysts who need quick, reliable, and scalable threat analysis.
 
@@ -20,6 +20,12 @@ TAPSec is a Python-based Command-Line Interface (CLI) tool designed for efficien
 - **Extensibility**: Allows easy addition of new models and features.
 
 ---
+
+## TAPSec CLI
+
+Below is the TAPSec ASCII art displayed in the CLI:
+
+![TAPSec ASCII Art](images/Screenshot%202024-12-01%20051753.png)
 
 ## 🛠️ Installation
 
