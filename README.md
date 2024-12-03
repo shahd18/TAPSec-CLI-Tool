@@ -25,7 +25,7 @@ TAPSec is a Python-based Command-Line Interface (CLI) tool designed for efficien
 
 Here’s a preview of the TAPSec CLI in action:
 
-![TAPSec CLI Screenshot](docs/images/tool.png "TAPSec CLI in action")
+![TAPSec CLI Screenshot](docs/images/tool.jpeg "TAPSec CLI in action")
 
 ---
 
